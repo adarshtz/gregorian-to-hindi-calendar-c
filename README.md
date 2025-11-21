@@ -31,4 +31,14 @@ Key Concepts
     
 *   **Conversion Logic**: Uses Indian National Calendar conventions (Saka Year = Gregorian Year - 78)
 
+Team Members & Contributions
+----------------------------
+
+This project was developed collaboratively by the following team members:
+
+*   **Aastha**: Overall problem definition and user interaction in main()
+*   **Aditya**: Linked list design for Hindi months (Node structure, createNode, append, freeList)
+*   **Archit**: Calendar data initialization & day-of-year calculation (createCalendarList, isLeapYear, getDayOfYear)
+*   **Adarsh**: Core conversion logic and final output formatting (convertToHindi)
+
 Developed as part of Data Structures coursework (First Semester, MCA), showing practical usage of algorithmic concepts.
